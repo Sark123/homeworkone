@@ -1,0 +1,68 @@
+﻿@charset "utf-8";
+body{
+	background-color:black;
+	background-image: url("images/bgc.jpg");
+	
+}
+#bg{
+	
+	position:;
+}
+#href{
+	margin-top:20px;
+	margin-bottom:10px;
+	margin-left:20%;
+	margin-right:20%;
+	text-align:center;
+	/*background-color:#eee;
+	position:;
+	*/
+	font-family: "造字工房力黑（非商用）";
+	font-size:40pt;
+	top:0;
+}
+#href ul{
+	margin-top:0px;
+	margin-bottom:0px;
+	list-style:none;
+}
+#try{
+	color:#ddd;
+	text-align:center;
+}
+p.first{
+	font-family: "造字工房力黑（非商用）";
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:38pt;
+}
+#wenzi{
+	color:#ddd;
+	font-size:10pt;
+}
+#content{
+	margin-top:70px;
+	margin-bottom:15px;
+	font-family: "造字工房力黑（非商用）";
+	color:#ddd;
+	font-size:50pt;
+}
+p.c{
+	text-align:center;
+	margin:0 0 0 2%;
+}
+#juqing{
+	color:#ddd;
+	float:right;
+	width:1000px;
+	margin-left:10px;
+	margin-right:25px;
+	font-size:15pt;
+}
+p.juqing{
+	margin-top:0px;
+}
+#aa{
+	float:left;
+	margin-left:2%;
+}
